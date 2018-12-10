@@ -1,0 +1,23 @@
+{
+  "name": "test-electron-webgl-travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigtimebuddy/test-electron-webgl-travis.git"
+  },
+  "keywords": [],
+  "author": "Matt Karl <matt@mattkarl.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigtimebuddy/test-electron-webgl-travis/issues"
+  },
+  "homepage": "https://github.com/bigtimebuddy/test-electron-webgl-travis#readme",
+  "dependencies": {
+    "electron": "^2.0.14"
+  }
+}
